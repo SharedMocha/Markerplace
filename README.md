@@ -1,34 +1,39 @@
 # Markerplace
 After reading books, article and blogs. I put to gather key points that can help in scaling a marketplace
 
+**Tools needed to create marketplace**-
 https://images.squarespace-cdn.com/content/v1/5af0dfba5b409b4ca8deb9bc/1531253880438-P6JQP8WDY1YR7M784K3Z/ke17ZwdGBToddI8pDm48kH9f2mDtvH6TSL40ZX9BMZV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UdpqaZrTA0D8m7FJu2DBc-Ae0j3JR8lQJkPVZkLhXjJ6IKYY7Qu0iTZQJ-GJ4dsqLQ/Anatomy+of+a+Marketplace.jpeg?format=2500w
+
+
+**When do you need VC money for martkeplace?**
 When is VC money needed- Because of low switching costs for its supply-side users, gig economy companies must manage margins carefully by controlling both rates and utilization so that they can attract adequate workers while also remaining a compelling proposition for customers. This is where the VC war chest comes in handy — extra cash enabled the most successful gig economy companies to weather the ups and downs of competing on margins.
 
-Market rule to remember-
+**MOST IMP Rules to remember when creating a marketplace:-**
 *Winner takes all. It's not who comes to market first. It's is someone who scales first.
 *10% is product 90% is market and people
 *Provide Convenience(Payments, Messaging, Transactions) and trust(Identity Verification, Reviews, Assurance, Your other friends from facebook booked us) are important. Trust through support when needed.
 *Use Technologies like Stripe for payments, Checkr for background checks, and Lob for address verification will only make it easier to create new marketplaces.
-*Frequency creates a habit which creates loyalty which creates profit.
+*Frequency creates a habit which creates loyalty which creates profit.Figure out a way to create habits and loyality.
 
-*3 best seeding strategy to start marketplace startups:-*
+**3 best seeding strategy to start marketplace startups:-**
 1.) Single Player Mode - (BEST OF ALL) (OpenTable used this)-Create tools that add value to supply guys so they get interested in using. This is called trojan horse approach
 2.) Fill Empty seats - (NO 2 BEST) (Uber, Groupon used this) -Offering to Fill Empty Seats for practitioners while telling them we will only take a % of what we were going to sell
 3.) Buyers are Sellers - (NO 3 BEST) (Let go, Lyft) Create a marketplace where Buyers are Sellers using advertisements to attract initial users
 
-*3 best expanding strategies after seeding strategies:-*
+**3 best expanding strategies or new seeding strategies :-**
 1.) Own supply-  See if we can hire practitioners and make them full time. This way we control Supply.
 2.) Own entire network- See if we can control the entire experience. Like cabs to pick up people, places to have events, Sponsors to support them. We own all of them.
 3.) N-sided marketplace - Bring all supplier together so they can book each other. Like hotels or place owners, Suppliers of food and drinks and practitioners. Each of them will have a profile and talk to each other and book each other (https://assets.website-files.com/5cca2e12f1988c0178a748ee/5cca2e12f1988c2907a74d2e_Market%20Network%20Companies.jpg)
 
-4 Loyalty models-Frequency creates a habit which creates loyalty which creates profit-For low-frequency apps like Airbnb we can create loyalty using below techniques
+**4 Loyalty models that help in creating repeating customers-:-**
+*Remember that frequency creates a habit which creates loyalty which creates profit. For low-frequency apps like Airbnb we can create loyalty using below techniques*
 1.) The Expedia Model (AKA SEO- Show blogs, videos of places from Expedia)
 2.) The Airbnb Model (AKA Better, Cheaper- Always find places cheaper )
 3.) The HotelTonight Model (AKA Insurance or Fear of not having it when needed) - Not storing contact of nearby hospital or car insurance company. We might need it very seriously at times
 4.) The Houzz Model (we take advantage of an inherent human desire to stay up-to-date on things important to them)(AKA Engagement - Zillow,realtor-check ur home prices) -Come and ask questions about your health and get tips on healing that might help you or send an email monthly with nearby sessions and ask user to try one for free or create blogs that people love to read or listen to podcasts
 
 
-*Steps to follow to create a winning marketplace*
+**Steps to follow to create a winning marketplace**
 ```Stage 1:- Research your market, people
 1.) Find who we will target first. Supply people(Practitioners)?Or Demand People(Customers)? For now, let's choose supply folks as they are important.
 1.) Let's Find a place/geography where they are present along with a small niche community like healers and choose a vertical like yoga or reiki to start with.
@@ -103,9 +108,9 @@ Market rule to remember-
 1.) Own supply-  See if we can hire practitioners and make them full time. This way we control Supply.
 2.) Own entire network- See if we can control the entire experience. Like cabs to pick up people, places to have events, Sponsors to support them. We own all of them.
 3.) N-sided marketplace - Bring all supplier together so they can book each other. Like hotels or place owners, Suppliers of food and drinks and practitioners. Each of them will have a profile and talk to each other and book each other (https://assets.website-files.com/5cca2e12f1988c0178a748ee/5cca2e12f1988c2907a74d2e_Market%20Network%20Companies.jpg)
+```
 
-
-*Make sure below things never ever happens-**
+**Make sure below things never ever happens in your marketplace.If they happen imemdiate action should be taken-**
 1.) Any request should be solved in 24 hours. Like if practitioners created an event we need to get a booking within 24 hours. For this, we need to choose one or two practitioners a day and market them heavily on google, FB, insta or verified practitioners icon or symbol on our app.
 2.) No practitioners lesser than 3-star rating will be shown in search results
 3.) Search results are shown based on a mix of ratings and handpicked users rather than location.
